@@ -1636,6 +1636,9 @@
       "CadastroClientes.Data/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v2.1",
+        "dependencies": {
+          "CadastroClientes.Domain": "1.0.0"
+        },
         "compile": {
           "bin/placeholder/CadastroClientes.Data.dll": {}
         },
@@ -1659,6 +1662,11 @@
       "CadastroClientes.Service/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v2.1",
+        "dependencies": {
+          "CadastroClientes.Data": "1.0.0",
+          "CadastroClientes.Domain": "1.0.0",
+          "CadastroClientes.Util": "1.0.0"
+        },
         "compile": {
           "bin/placeholder/CadastroClientes.Service.dll": {}
         },

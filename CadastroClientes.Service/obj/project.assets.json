@@ -207,6 +207,42 @@
         "build": {
           "build/netstandard2.0/NETStandard.Library.targets": {}
         }
+      },
+      "CadastroClientes.Data/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v2.1",
+        "dependencies": {
+          "CadastroClientes.Domain": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/CadastroClientes.Data.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/CadastroClientes.Data.dll": {}
+        }
+      },
+      "CadastroClientes.Domain/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v2.1",
+        "dependencies": {
+          "CadastroClientes.Util": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/CadastroClientes.Domain.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/CadastroClientes.Domain.dll": {}
+        }
+      },
+      "CadastroClientes.Util/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v2.1",
+        "compile": {
+          "bin/placeholder/CadastroClientes.Util.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/CadastroClientes.Util.dll": {}
+        }
       }
     }
   },
@@ -680,10 +716,28 @@
         "netstandard.library.2.0.3.nupkg.sha512",
         "netstandard.library.nuspec"
       ]
+    },
+    "CadastroClientes.Data/1.0.0": {
+      "type": "project",
+      "path": "../CadastroClientes.Data/CadastroClientes.Data.csproj",
+      "msbuildProject": "../CadastroClientes.Data/CadastroClientes.Data.csproj"
+    },
+    "CadastroClientes.Domain/1.0.0": {
+      "type": "project",
+      "path": "../CadastroClientes.Domain/CadastroClientes.Domain.csproj",
+      "msbuildProject": "../CadastroClientes.Domain/CadastroClientes.Domain.csproj"
+    },
+    "CadastroClientes.Util/1.0.0": {
+      "type": "project",
+      "path": "../CadastroClientes.Util/CadastroClientes.Util.csproj",
+      "msbuildProject": "../CadastroClientes.Util/CadastroClientes.Util.csproj"
     }
   },
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v2.1": [
+      "CadastroClientes.Data >= 1.0.0",
+      "CadastroClientes.Domain >= 1.0.0",
+      "CadastroClientes.Util >= 1.0.0",
       "Microsoft.NETCore.App >= 2.1.0"
     ]
   },
@@ -716,7 +770,17 @@
       },
       "frameworks": {
         "netcoreapp2.1": {
-          "projectReferences": {}
+          "projectReferences": {
+            "D:\\CadastroClientes\\CadastroClientes.Data\\CadastroClientes.Data.csproj": {
+              "projectPath": "D:\\CadastroClientes\\CadastroClientes.Data\\CadastroClientes.Data.csproj"
+            },
+            "D:\\CadastroClientes\\CadastroClientes.Domain\\CadastroClientes.Domain.csproj": {
+              "projectPath": "D:\\CadastroClientes\\CadastroClientes.Domain\\CadastroClientes.Domain.csproj"
+            },
+            "D:\\CadastroClientes\\CadastroClientes.Util\\CadastroClientes.Util.csproj": {
+              "projectPath": "D:\\CadastroClientes\\CadastroClientes.Util\\CadastroClientes.Util.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

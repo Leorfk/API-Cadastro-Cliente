@@ -4,4 +4,10 @@
     <TargetFramework>netcoreapp2.1</TargetFramework>
   </PropertyGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\CadastroClientes.Data\CadastroClientes.Data.csproj" />
+    <ProjectReference Include="..\CadastroClientes.Domain\CadastroClientes.Domain.csproj" />
+    <ProjectReference Include="..\CadastroClientes.Util\CadastroClientes.Util.csproj" />
+  </ItemGroup>
+
 </Project>
