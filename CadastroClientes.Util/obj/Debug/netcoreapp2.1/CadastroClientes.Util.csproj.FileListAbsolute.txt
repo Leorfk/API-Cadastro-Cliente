@@ -1,0 +1,9 @@
+D:\CadastroClientes\CadastroClientes.Util\bin\Debug\netcoreapp2.1\CadastroClientes.Util.deps.json
+D:\CadastroClientes\CadastroClientes.Util\bin\Debug\netcoreapp2.1\CadastroClientes.Util.dll
+D:\CadastroClientes\CadastroClientes.Util\bin\Debug\netcoreapp2.1\CadastroClientes.Util.pdb
+D:\CadastroClientes\CadastroClientes.Util\obj\Debug\netcoreapp2.1\CadastroClientes.Util.csprojAssemblyReference.cache
+D:\CadastroClientes\CadastroClientes.Util\obj\Debug\netcoreapp2.1\CadastroClientes.Util.csproj.CoreCompileInputs.cache
+D:\CadastroClientes\CadastroClientes.Util\obj\Debug\netcoreapp2.1\CadastroClientes.Util.AssemblyInfoInputs.cache
+D:\CadastroClientes\CadastroClientes.Util\obj\Debug\netcoreapp2.1\CadastroClientes.Util.AssemblyInfo.cs
+D:\CadastroClientes\CadastroClientes.Util\obj\Debug\netcoreapp2.1\CadastroClientes.Util.dll
+D:\CadastroClientes\CadastroClientes.Util\obj\Debug\netcoreapp2.1\CadastroClientes.Util.pdb

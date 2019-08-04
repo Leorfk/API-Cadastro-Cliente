@@ -1,0 +1,30 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.1</TargetFramework>
+
+    <IsPackable>false</IsPackable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.NET.Test.Sdk" Version="16.0.1" />
+    <PackageReference Include="MSTest.TestAdapter" Version="1.4.0" />
+    <PackageReference Include="MSTest.TestFramework" Version="1.4.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="DomainTests\" />
+    <Folder Include="DataTests\" />
+    <Folder Include="APITests\" />
+    <Folder Include="ServiceTests\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\CadastroClientes.API\CadastroClientes.API.csproj" />
+    <ProjectReference Include="..\CadastroClientes.Data\CadastroClientes.Data.csproj" />
+    <ProjectReference Include="..\CadastroClientes.Domain\CadastroClientes.Domain.csproj" />
+    <ProjectReference Include="..\CadastroClientes.Service\CadastroClientes.Service.csproj" />
+    <ProjectReference Include="..\CadastroClientes.Util\CadastroClientes.Util.csproj" />
+  </ItemGroup>
+
+</Project>

@@ -1,0 +1,12 @@
+D:\CadastroClientes\CadastroClientes.Domain\bin\Debug\netcoreapp2.1\CadastroClientes.Domain.deps.json
+D:\CadastroClientes\CadastroClientes.Domain\bin\Debug\netcoreapp2.1\CadastroClientes.Domain.dll
+D:\CadastroClientes\CadastroClientes.Domain\bin\Debug\netcoreapp2.1\CadastroClientes.Domain.pdb
+D:\CadastroClientes\CadastroClientes.Domain\obj\Debug\netcoreapp2.1\CadastroClientes.Domain.csprojAssemblyReference.cache
+D:\CadastroClientes\CadastroClientes.Domain\obj\Debug\netcoreapp2.1\CadastroClientes.Domain.csproj.CoreCompileInputs.cache
+D:\CadastroClientes\CadastroClientes.Domain\obj\Debug\netcoreapp2.1\CadastroClientes.Domain.AssemblyInfoInputs.cache
+D:\CadastroClientes\CadastroClientes.Domain\obj\Debug\netcoreapp2.1\CadastroClientes.Domain.AssemblyInfo.cs
+D:\CadastroClientes\CadastroClientes.Domain\obj\Debug\netcoreapp2.1\CadastroClientes.Domain.dll
+D:\CadastroClientes\CadastroClientes.Domain\obj\Debug\netcoreapp2.1\CadastroClientes.Domain.pdb
+D:\CadastroClientes\CadastroClientes.Domain\bin\Debug\netcoreapp2.1\CadastroClientes.Util.dll
+D:\CadastroClientes\CadastroClientes.Domain\bin\Debug\netcoreapp2.1\CadastroClientes.Util.pdb
+D:\CadastroClientes\CadastroClientes.Domain\obj\Debug\netcoreapp2.1\CadastroClientes.Domain.csproj.CopyComplete

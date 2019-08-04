@@ -1,0 +1,14 @@
+D:\CadastroClientes\CadastroClientes.API\bin\Debug\netcoreapp2.1\CadastroClientes.API.deps.json
+D:\CadastroClientes\CadastroClientes.API\bin\Debug\netcoreapp2.1\CadastroClientes.API.runtimeconfig.json
+D:\CadastroClientes\CadastroClientes.API\bin\Debug\netcoreapp2.1\CadastroClientes.API.runtimeconfig.dev.json
+D:\CadastroClientes\CadastroClientes.API\bin\Debug\netcoreapp2.1\CadastroClientes.API.dll
+D:\CadastroClientes\CadastroClientes.API\bin\Debug\netcoreapp2.1\CadastroClientes.API.pdb
+D:\CadastroClientes\CadastroClientes.API\obj\Debug\netcoreapp2.1\CadastroClientes.API.csprojAssemblyReference.cache
+D:\CadastroClientes\CadastroClientes.API\obj\Debug\netcoreapp2.1\CadastroClientes.API.csproj.CoreCompileInputs.cache
+D:\CadastroClientes\CadastroClientes.API\obj\Debug\netcoreapp2.1\CadastroClientes.API.RazorAssemblyInfo.cache
+D:\CadastroClientes\CadastroClientes.API\obj\Debug\netcoreapp2.1\CadastroClientes.API.RazorAssemblyInfo.cs
+D:\CadastroClientes\CadastroClientes.API\obj\Debug\netcoreapp2.1\CadastroClientes.API.AssemblyInfoInputs.cache
+D:\CadastroClientes\CadastroClientes.API\obj\Debug\netcoreapp2.1\CadastroClientes.API.AssemblyInfo.cs
+D:\CadastroClientes\CadastroClientes.API\obj\Debug\netcoreapp2.1\CadastroClientes.API.RazorTargetAssemblyInfo.cache
+D:\CadastroClientes\CadastroClientes.API\obj\Debug\netcoreapp2.1\CadastroClientes.API.dll
+D:\CadastroClientes\CadastroClientes.API\obj\Debug\netcoreapp2.1\CadastroClientes.API.pdb
